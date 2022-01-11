@@ -15,3 +15,5 @@ The files in the repository:
 The libraries I used in this project are Pandas, and matplotlib.
 ***
 This project is part of Udacity nanodegree program, I have decided to use the Airbnb dataset so I can understand the trends that affect traveling and visiting Seattle better.
+***
+The results that I found indicate that the best area to stay in Seattle is the area with the zipcode 98116, and the cheapest time of the year to visit is between September and November. Moreover, I found the cleaning fees higher than $50 don't correlate with cleaner listings. 
