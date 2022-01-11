@@ -12,4 +12,6 @@ The files in the repository:
     * This file is from Airbnb, and it has information about the reviews made from the clients. 
 
 ****
-
+The libraries I used in this project are Pandas, and matplotlib.
+***
+This project is part of Udacity nanodegree program, I have decided to use the Airbnb dataset so I can understand the trends that affect traveling and visiting Seattle better.
